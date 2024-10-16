@@ -7,3 +7,4 @@ he añadido una linea para demostar como funciona fetch
 
 he añadido una linea para demostar como funciona pull....
 
+edito esto para probar que no puedo hacer push sin haver pull
